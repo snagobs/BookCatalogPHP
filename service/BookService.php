@@ -156,4 +156,5 @@ class BookService extends BaseDbService
 
         return $data;
     }
+
 }

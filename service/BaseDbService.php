@@ -19,5 +19,4 @@ abstract class BaseDbService
         $this->connect->close();
     }
 
-
 }

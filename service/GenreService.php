@@ -16,7 +16,6 @@ class GenreService extends BaseDbService
         $genre = new Genre();
         $genre->setId($data[0]['id']);
         $genre->setName($data[0]['name']);
-
         return $genre;
     }
 
@@ -29,7 +28,6 @@ class GenreService extends BaseDbService
             $data[] = $row;
         }
         $this->closeConnection();
-
         return $data;
     }
 
@@ -50,4 +48,5 @@ class GenreService extends BaseDbService
         $this->newConnection()->query("DELETE FROM genre WHERE id={$genre->getId()}");
         $this->closeConnection();
     }
+
 }

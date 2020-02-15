@@ -16,7 +16,6 @@ class AuthorService extends BaseDbService
         $author = new Author();
         $author->setId($data[0]['id']);
         $author->setName($data[0]['name']);
-
         return $author;
     }
 
@@ -29,7 +28,6 @@ class AuthorService extends BaseDbService
             $data[] = $row;
         }
         $this->closeConnection();
-
         return $data;
     }
 
@@ -50,4 +48,5 @@ class AuthorService extends BaseDbService
         $this->newConnection()->query("DELETE FROM author WHERE id={$author->getId()}");
         $this->closeConnection();
     }
+
 }
