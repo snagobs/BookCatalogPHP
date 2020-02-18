@@ -1,6 +1,6 @@
 <?php include __DIR__ . '/_header.php' ?>
 
-    <div class="container">
+    <div class="container mt-3 mb-3">
         <h1>Admin dashboard</h1>
         <ul>
             <li>
