@@ -1,4 +1,4 @@
-AuthUserFile /home/sergej/Projects/BookCatalog/admin/.htaccess
+AuthUserFile /home/BookCatalogPHP/admin/.htaccess
 AuthType Basic
 AuthName "Admin area"
 Require valid-user

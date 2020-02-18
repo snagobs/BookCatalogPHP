@@ -2,18 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c73df9ec-8070-4038-8481-1ca199aa96c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/bookCatalogNew.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bookCatalogNew.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/Author.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/Author.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/Book.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/Book.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/Genre.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/Genre.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/AuthorService.php" beforeDir="false" afterPath="$PROJECT_DIR$/service/AuthorService.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/BaseDbService.php" beforeDir="false" afterPath="$PROJECT_DIR$/service/BaseDbService.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/BookService.php" beforeDir="false" afterPath="$PROJECT_DIR$/service/BookService.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/GenreService.php" beforeDir="false" afterPath="$PROJECT_DIR$/service/GenreService.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/validate/Validate.php" beforeDir="false" afterPath="$PROJECT_DIR$/validate/Validate.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/book/detail.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/book/detail.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/book/search.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/book/search.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/admin/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/views/_footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/views/_footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/views/_header.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/views/_header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/views/book/add.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/views/book/add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/views/book/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/views/book/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/views/book/list.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/views/book/list.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book_catalog.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/book/success.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/book/success.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,13 @@
     <expand />
     <select />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -54,8 +60,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Desktop/одллол/geeksforless/bookCatalog" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -74,7 +80,9 @@
       <updated>1581502832299</updated>
       <workItem from="1581502833584" duration="3649000" />
       <workItem from="1581596013137" duration="2174000" />
-      <workItem from="1581773319656" duration="570000" />
+      <workItem from="1581773319656" duration="1764000" />
+      <workItem from="1581944470264" duration="3834000" />
+      <workItem from="1582004589779" duration="9250000" />
     </task>
     <servers />
   </component>
@@ -94,17 +102,21 @@
       <screen x="65" y="24" width="1375" height="876" />
     </state>
     <state x="440" y="177" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/65.24.1375.876@65.24.1375.876" timestamp="1581595986348" />
+    <state x="540" y="207" key="FileChooserDialogImpl" timestamp="1582024603572">
+      <screen x="65" y="24" width="1375" height="876" />
+    </state>
+    <state x="540" y="207" key="FileChooserDialogImpl/65.24.1375.876@65.24.1375.876" timestamp="1582024603572" />
     <state width="263" height="500" key="HiddenNamespacesPopup" timestamp="1581595059182">
       <screen x="65" y="24" width="1375" height="876" />
     </state>
     <state width="263" height="500" key="HiddenNamespacesPopup/65.24.1375.876@65.24.1375.876" timestamp="1581595059182" />
-    <state x="246" y="84" key="SettingsEditor" timestamp="1581502837409">
+    <state x="246" y="84" key="SettingsEditor" timestamp="1582017636751">
       <screen x="65" y="24" width="1375" height="876" />
     </state>
-    <state x="246" y="84" key="SettingsEditor/65.24.1375.876@65.24.1375.876" timestamp="1581502837409" />
-    <state x="413" y="277" key="com.intellij.ide.util.TipDialog" timestamp="1581596013347">
+    <state x="246" y="84" key="SettingsEditor/65.24.1375.876@65.24.1375.876" timestamp="1582017636751" />
+    <state x="413" y="277" key="com.intellij.ide.util.TipDialog" timestamp="1582004590924">
       <screen x="65" y="24" width="1375" height="876" />
     </state>
-    <state x="413" y="277" key="com.intellij.ide.util.TipDialog/65.24.1375.876@65.24.1375.876" timestamp="1581596013347" />
+    <state x="413" y="277" key="com.intellij.ide.util.TipDialog/65.24.1375.876@65.24.1375.876" timestamp="1582004590924" />
   </component>
 </project>
