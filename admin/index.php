@@ -6,10 +6,6 @@ require __DIR__ . '/controllers/AuthorController.php';
 require __DIR__ . '/controllers/BookController.php';
 require __DIR__ . '/controllers/GenreController.php';
 
-//function __autoload($className){
-  //  include __DIR__."$className.php";
-//}
-
 $controllerName = isset($_GET['controller']) ? $_GET['controller'] : 'index';
 $actionName = isset($_GET['action']) ? $_GET['action'] : 'index';
 
@@ -51,7 +47,7 @@ if ($controllerName === 'index') {
         $bookController->editAction();
     } elseif ($actionName === 'delete') {
         $bookController->deleteAction();
-    }else {
+    } else {
         echo "Error: book action wasn't found";
         exit;
     }

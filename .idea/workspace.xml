@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c73df9ec-8070-4038-8481-1ca199aa96c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/bookCatalogNew.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bookCatalogNew.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/admin/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/admin/.htaccess" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/views/_footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/views/_footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/views/_header.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/views/_header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/views/book/add.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/views/book/add.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/views/book/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/views/book/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/.htpasswd" beforeDir="false" afterPath="$PROJECT_DIR$/admin/.htpasswd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/views/author/add.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/views/author/add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/views/author/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/views/author/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/views/author/list.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/views/author/list.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/admin/views/book/list.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/views/book/list.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book_catalog.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/book/success.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/book/success.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/views/genre/add.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/views/genre/add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/views/genre/list.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/views/genre/list.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/views/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/views/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +82,8 @@
       <workItem from="1581596013137" duration="2174000" />
       <workItem from="1581773319656" duration="1764000" />
       <workItem from="1581944470264" duration="3834000" />
-      <workItem from="1582004589779" duration="9250000" />
+      <workItem from="1582004589779" duration="12699000" />
+      <workItem from="1582048912658" duration="2408000" />
     </task>
     <servers />
   </component>
@@ -114,9 +115,9 @@
       <screen x="65" y="24" width="1375" height="876" />
     </state>
     <state x="246" y="84" key="SettingsEditor/65.24.1375.876@65.24.1375.876" timestamp="1582017636751" />
-    <state x="413" y="277" key="com.intellij.ide.util.TipDialog" timestamp="1582004590924">
+    <state x="413" y="277" key="com.intellij.ide.util.TipDialog" timestamp="1582048912600">
       <screen x="65" y="24" width="1375" height="876" />
     </state>
-    <state x="413" y="277" key="com.intellij.ide.util.TipDialog/65.24.1375.876@65.24.1375.876" timestamp="1582004590924" />
+    <state x="413" y="277" key="com.intellij.ide.util.TipDialog/65.24.1375.876@65.24.1375.876" timestamp="1582048912600" />
   </component>
 </project>

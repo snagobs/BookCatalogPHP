@@ -1,4 +1,7 @@
-AuthUserFile /home/BookCatalogPHP/admin/.htaccess
 AuthType Basic
 AuthName "Admin area"
+AuthUserFile /home/BookCatalogPHP/admin/.htaccess.htpasswd
 Require valid-user
+<Files .htpasswd>
+   deny from all
+</Files>

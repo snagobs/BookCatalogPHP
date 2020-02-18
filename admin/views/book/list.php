@@ -1,12 +1,10 @@
 <?php include __DIR__ . '/../_header.php' ?>
 
     <div class="container mb-3 mt-3">
-
-            <h1>Books</h1>
-
-            <a href="index.php?controller=book&action=add" class="btn btn-info float-right" role="button">Add new</a>
-            <br>
-            <br>
+        <h1>Books</h1>
+        <a href="index.php?controller=book&action=add" class="btn btn-info float-right" role="button">Add new book</a>
+        <br>
+        <br>
         <div class="row">
             <table class="table table-striped table-bordered mytable" style="width: 100%">
                 <thead>
@@ -45,7 +43,7 @@
                             <ul>
                                 <li>
                                     <a href="index.php?controller=book&action=edit&id=<?php echo $book['id'] ?>"
-                                       class="btn btn-success" role="button" style="width: 65px;">
+                                       class="btn btn-success" role="button" style="width: 70px;">
                                         Edit
                                     </a>
                                 </li>
