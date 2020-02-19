@@ -5,14 +5,14 @@
         <small>
             Authors:
             <?php foreach ($book->getAuthors() as $author): ?>
-                <?php echo $author['name'] ?>,
+                •<?php echo $author['name'] ?>
             <?php endforeach ?>
         </small>
         <br>
         <small>
             Genres:
             <?php foreach ($book->getGenres() as $genre): ?>
-                <?php echo $genre['name'] ?>,
+                •<?php echo $genre['name'] ?>
             <?php endforeach ?>
         </small>
         <br>
@@ -33,7 +33,8 @@
                 </div>
                 <div class="form-group">
                     <label>Quantity</label>
-                    <input type="number" placeholder="Books quantity" name="qty" min="1" max="20" step="1" class="form-control" required>
+                    <input type="number" placeholder="Books quantity" name="qty" min="1" max="20" step="1"
+                           class="form-control" required>
                 </div>
                 <div class="form-group" style="text-align: center">
                     <button type="submit" class="btn btn-success">Buy book</button>
