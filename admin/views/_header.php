@@ -11,16 +11,12 @@
             background-color: ghostwhite;
         }
 
-        h1 {
+        h1, h5, th {
             text-align: center;
         }
 
         a {
             color: black;
-        }
-
-        th {
-            text-align: center;
         }
 
         button {
@@ -31,11 +27,6 @@
         input {
             width: 200px;
         }
-
-        .card-header {
-            text-align: center;
-        }
-
     </style>
 </head>
 <body>

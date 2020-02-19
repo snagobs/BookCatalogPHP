@@ -11,9 +11,9 @@
             <table class="table table-striped table-bordered mytable" style="width: 100%">
                 <thead>
                 <tr>
-                    <td>Id</td>
-                    <td>Name</td>
-                    <td>Action</td>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Action</th>
                 </tr>
                 </thead>
                 <tbody>
