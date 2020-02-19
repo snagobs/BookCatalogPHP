@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c73df9ec-8070-4038-8481-1ca199aa96c6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/book/detail.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/book/detail.php" afterDir="false" />
-    </list>
+    <list default="true" id="c73df9ec-8070-4038-8481-1ca199aa96c6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +48,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Desktop/одллол/geeksforless/bookCatalog" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
   </component>
   <component name="RecentsManager">
@@ -74,7 +71,7 @@
       <workItem from="1581773319656" duration="1764000" />
       <workItem from="1581944470264" duration="3834000" />
       <workItem from="1582004589779" duration="12699000" />
-      <workItem from="1582048912658" duration="8463000" />
+      <workItem from="1582048912658" duration="8721000" />
     </task>
     <servers />
   </component>
